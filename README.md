@@ -1,2 +1,3 @@
-# Data-informed-parameter-estimation-in-behavioral-epidemic-models
-DOI: [10.5281/zenodo.8145464](https://zenodo.org/record/8145464)
+# Parameter estimation in behavioral epidemic models with endogenous societal risk-response
+DOI: [10.5281/zenodo.10501198](https://zenodo.org/record/10501198)
+
